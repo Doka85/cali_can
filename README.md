@@ -1,4 +1,4 @@
-# Cali-Can Project
+# Ein CAN Project für den Grand California
 
 **Ein ESPHome-Projekt zur CAN-Bus Integration im VW Grand California**+
 
